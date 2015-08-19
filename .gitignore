@@ -1,10 +1,6 @@
-web/.sass-cache
-web/node_modules
-
-# deploy files
-web/deploy
-
-# Ignore Mac .DS_Store
+.sass-cache
+node_modules
+deploy
 .DS_Store
 .DS_Store?
 ._*
