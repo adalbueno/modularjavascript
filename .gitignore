@@ -1,0 +1,14 @@
+web/.sass-cache
+web/node_modules
+
+# deploy files
+web/deploy
+
+# Ignore Mac .DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
